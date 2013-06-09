@@ -1,0 +1,44 @@
+TP - 2da Entrega Martes 18/06
+-------------------------------------------------------------------------
+
+Funcionalidad a entregar:
+•Para esta entrega deberian de estar todas las pantallas 1,2,4,5:
+ -- Faltantes:
+ --------------
+   * Pantalla 1:
+   ----------------
+   
+   * Pantalla 2:
+   ----------------
+   
+   * Pantalla 4:
+   ----------------
+   
+   * Pantalla 5:
+   ----------------
+
+•Todas estas guardando informacion en la Base de Datos.
+ -- Faltantes:
+ --------------
+	* Clase ADO - Abms
+
+•Debe existir la separación en capas en el proyecto.
+ -- Faltantes:
+ --------------
+ 
+•uno deberia de poder registrarse, que se le envie por mail la registracion (pueden usar cualquier smtp, como por ejemplo gmail) y poder loguearse. y a partir de ahi se deben poder realizar todas las operaciones de las pantallas 1,2,4,5 de las especificaciones funcionales.
+ -- Faltantes:
+ --------------
+
+ 
+La entrega consistirá en un zip con:
+1. El DER actualizado.
+2. Un archivo .bak con el backup de la BD.
+3. La solucion completa (el .sln, junto con los proyectos creados para la separacion en capas)
+
+Aclaracion pantallas:
+
+1. Registración/Login de Tiendas Virtuales
+2. Administración de Tiendas Virtuales (sólo para el administrador de la Tienda)
+4. Administración de Productos (sólo para el administrador de la Tienda)
+5. Administración de Compras (sólo para el administrador de la Tienda)
